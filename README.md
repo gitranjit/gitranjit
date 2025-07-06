@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranjit Koragoankar</h1>
 <h3 align="center">AI Engineer from India passionate about machine learning, large language models, and computer vision.</h3>
 
-<!-- 🎨 Optional Banner - replace with your custom image -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile" alt="Profile Banner" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -36,10 +31,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjit-koragoankar&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ranjit-koragoankar&theme=radical" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ranjit-koragoankar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ranjit-koragoankar&theme=radical" />
 </p>
+
+
 
 ---
 ## 👀 Profile Views
