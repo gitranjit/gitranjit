@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ranjit Koragoankar</h1>
+<h3 align="center">AI Engineer from India passionate about machine learning, large language models, and computer vision.</h3>
 
-<!--
-**gitranjit/gitranjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🎨 Optional Banner - replace with your custom image -->
+<p align="center">
+  <img src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile" alt="Profile Banner" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on **AI/ML applications involving LLMs and RAG**
+- 🌱 I’m currently learning **LangChain** and **LangGraph**
+- 💬 Ask me about anything related to **transformers**, **LLMs**, **CV**, and **efficient model deployment**
+- 📫 Reach me at: **koragoankarranjit196@gmail.com**
+- 💼 LinkedIn: [Ranjit Koragoankar](https://www.linkedin.com/in/ranjit-koragoankar-7a09ab209/)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-222222?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-FF5C5C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-663399?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjit-koragoankar&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ranjit-koragoankar&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ranjit-koragoankar-7a09ab209/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:koragoankarranjit196@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranjit-koragoankar&color=blue&style=flat-square" alt="Profile View Counter"/>
+</p>
