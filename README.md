@@ -9,12 +9,10 @@
 ---
 
 ## 🚀 About Me
-
-- 🔭 I’m currently working on **AI/ML applications involving LLMs and RAG**
+- 🔭 I’m currently working at Dassault Systèmes
 - 🌱 I’m currently learning **LangChain** and **LangGraph**
 - 💬 Ask me about anything related to **transformers**, **LLMs**, **CV**, and **efficient model deployment**
 - 📫 Reach me at: **koragoankarranjit196@gmail.com**
-- 💼 LinkedIn: [Ranjit Koragoankar](https://www.linkedin.com/in/ranjit-koragoankar-7a09ab209/)
 
 ---
 
@@ -44,22 +42,12 @@
 </p>
 
 ---
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ranjit-koragoankar-7a09ab209/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:koragoankarranjit196@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
-
----
-
 ## 👀 Profile Views
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=ranjit-koragoankar&color=blue&style=flat-square" alt="Profile View Counter"/>
 </p>
+
+
+
+
