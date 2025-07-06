@@ -28,12 +28,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ranjit-koragoankar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ranjit-koragoankar&theme=radical" />
-</p>
+<div align="center">
+  <a href="https://github.com/ranjit-koragoankar">
+    <img src="https://github-readme-stats.vercel.app/api?username=ranjit-koragoankar&show_icons=true&theme=radical" width="48%" />
+  </a>
+  <a href="https://github.com/ranjit-koragoankar">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ranjit-koragoankar&theme=radical" width="48%" />
+  </a>
+</div>
+
 
 
 
