@@ -30,14 +30,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/gitranjit">
-    <img src="https://github-readme-stats.vercel.app/api?username=ranjit&show_icons=true&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/gitranjit">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ranjit&theme=radical" width="48%" />
-  </a>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gitranjit&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gitranjit&theme=radical" />
+</p>
+
 
 
 
